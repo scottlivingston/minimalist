@@ -1,0 +1,12 @@
+{
+  "name": "minimalist",
+  "version": "1.0.0",
+  "description": "A minimalist theme for ghost based on Casper",
+  "author": "Scott Livingston <s.livingst@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/browsenpm.org"
+  },
+  "private": true,
+  "license": "MIT"
+}
